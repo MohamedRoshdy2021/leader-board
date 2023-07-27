@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>lwsdfdsfsdfsdfdsf</title>
-<script defer src="index.js"></script></head>
+<script defer src="main.js"></script></head>
 <body>
     <nav>
         <h1>Leaderboard</h1>
@@ -13,14 +13,9 @@
     <div class="Recent">
         <div>
             <h2 id="h2">Recent scores</h2>
-            <button>Refresh</button>
+            <button id="refresh">Refresh</button>
         </div>
-        <ul>
-            <li class="gray">medo:100</li>
-            <li>khalil:200</li>
-            <li class="gray">abdo:800</li>
-            <li>eisa:10000</li>
-            <li class="gray">yoyo:5000</li>
+        <ul id="scoresList">
         </ul>
     </div>
     <div class="add-score">
@@ -28,7 +23,7 @@
         <div>
         <input type="text" name="name" id="name">
         <input type="text" name="score" id="score">
-        <button type="submit">Submit</button>
+        <button type="submit" id="submit">Submit</button>
         </div>
     </div>
     </section>        

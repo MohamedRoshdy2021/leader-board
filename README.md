@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <h2> Mohammed Roshdy</h2>
+  <h2> Mohammed Roshdy Leader board's project</h2>
   <br/>
 
   <h3><b>Leader Board</b></h3>
