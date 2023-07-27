@@ -45,7 +45,7 @@
 4: javascript
 5: webpack
 
-## live demo <a name="live demo">coming soon</a>
+## live demo <a name="live demo">https://mohamedroshdy2021.github.io/leader-board/dist/</a>
 <details>
   <summary>Client</summary>
   <ul>
