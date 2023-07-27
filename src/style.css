@@ -38,12 +38,14 @@ section {
 ul {
   border: 2px solid black;
   list-style: none;
-  min-height: 200px;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
   gap: 1rem;
   padding: 1rem 0.5rem;
+}
+
+ul li {
+  padding: 0.4rem 0;
 }
 
 .gray {

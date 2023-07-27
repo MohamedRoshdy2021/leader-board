@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <h2> Mohammed Roshdy</h2>
+  <h2> Mohammed Roshdy Leader board's project</h2>
   <br/>
 
   <h3><b>Leader Board</b></h3>
@@ -19,6 +19,7 @@
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [live-demo](#livelink)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
@@ -44,6 +45,7 @@
 4: javascript
 5: webpack
 
+## live demo <a name="live link">https://mohamedroshdy2021.github.io/leader-board/dist/</a>
 <details>
   <summary>Client</summary>
   <ul>
