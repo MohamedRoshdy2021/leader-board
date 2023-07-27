@@ -19,6 +19,7 @@
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [live-demo](#live link)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
@@ -44,6 +45,7 @@
 4: javascript
 5: webpack
 
+## live demo <a name="live demo">https://mohamedroshdy2021.github.io/leader-board/dist/</a>
 <details>
   <summary>Client</summary>
   <ul>
