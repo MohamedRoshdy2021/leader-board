@@ -6,7 +6,7 @@ document.getElementById('refresh').addEventListener('click', () => {
   submittedScores.forEach((score, index) => {
     const listItem = document.createElement('li');
     if (index % 2 !== 1) {
-      listItem.style.backgroundColor = 'gray';
+      listItem.style.backgroundColor = '#ca6702';
     }
     listItem.textContent = `${score.user}:${score.score}`;
     scoresList.appendChild(listItem);
